@@ -6,9 +6,9 @@ license = { text = "MIT License" }
 
 [project.urls]
 Repository = "https://github.com/MarwanDSAI/marwan-nodes"
-#  Used by Comfy Registry https://comfyregistry.org 
+#  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
 PublisherId = "marwandsai"
 DisplayName = "marwan-nodes"
-Icon = ""
+Icon = "https://raw.githubusercontent.com/MarwanDSAI/marwan-nodes/main/images/MarwanAI-400.png"

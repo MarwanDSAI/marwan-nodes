@@ -6,7 +6,10 @@ on:
       - main
     paths:
       - "pyproject.toml"
-
+      
+permissions:
+  issues: write
+  
 jobs:
   publish-node:
     name: Publish Custom Node to registry

@@ -1,0 +1,14 @@
+[project]
+name = "marwan-nodes"
+description = "custom nodes to use with my Ultimate Model Tester Workflow."
+version = "1.0"
+license = { text = "MIT License" }
+
+[project.urls]
+Repository = "https://github.com/MarwanDSAI/marwan-nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "marwandsai"
+DisplayName = "marwan-nodes"
+Icon = ""
